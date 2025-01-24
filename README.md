@@ -1,4 +1,4 @@
-# radiativecooling
+# Radiative Cooling of a Plasma - Fortran Simulation
 Simple script to estimate the cooling time and energy evolution of a H-He plasma through radiative processes only.
 The main script will output the results as .txt files. You can run several simulations and then plot with the python scripts to visualise all of them at once.
 
